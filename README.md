@@ -1,1 +1,3 @@
-# como-comprar-ethereum-classic-etc
+[**Cómo comprar Ethereum Classic (ETC)**](https://topcryptoguide.com/como-comprar-ethereum-classic-etc/)
+
+Este artículo explica **cómo comprar Ethereum Classic (ETC)**, la criptomoneda surgida como la cadena original de Ethereum tras el fork de 2016, que mantiene el principio de “código inmutable”. Para adquirir ETC normalmente debes **crear una cuenta en un exchange confiable donde esté listado** (por ejemplo Binance, KuCoin, Kraken o Coinbase), **verificar tu identidad** si corresponde y **depositar fondos** mediante transferencia bancaria, tarjeta o stablecoins como USDT antes de ejecutar la compra en el mercado spot. Algunos exchanges también permiten **comprar ETC directamente con tarjeta de crédito/débito**. Tras la compra, se recomienda **mover los tokens a un wallet seguro** donde controles tus claves privadas para proteger tus activos digitales.
